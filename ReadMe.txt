@@ -39,7 +39,7 @@ Improve the Earth’s rotation polar shift effect algorithm in the IERS conventi
 
 [For compile and link]
   Fortran90, 132 Columns fixed format. Fortran compiler for any operating system. No external link library required.
-[Algorithmic formula] ETideLoad4.5 User Reference
+[Algorithmic formula] ETideLoad4.5 User Reference (https://www.zcyphygeodesy.com/en/)
   8.6.1 Earth’s rotation polar shift effects on geodetic variations
   8.3.3 Legendre function and its first and second derivatives to ψ
 
